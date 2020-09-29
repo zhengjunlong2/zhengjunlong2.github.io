@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+<div>
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>郑</h1>
+      <p><b></b></p>
+      <p><b>石家庄铁道大学信息科学与技术学院软件工程系</b></p>
+      <p><b>邮箱：376371066@qq.com</b></p>
+      <p><b>地址：河北省石家庄市长安区北二环东路17号石家庄铁道大学，邮编：050043</b></p>
+     
+    </td>
+    <td width="25%">
+      <img src="/zhengjianzhao.jpg" width="100%">
+    </td>
+  </tr>
+</table>
+</div>
 
-You can use the [editor on GitHub](https://github.com/zhengjunlong2/zhengjunlong2.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### 主修课程：
+- C、C++、JAVA、算法与数据结构、Web应用开发技术、软件需求与分析、移动应用开发技术、Python
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### 荣誉技能
+- 五次获得二等奖学金
+- 两次获取院“三好学生”荣誉称号、获得2018年度“校级优秀志愿者”称号、两次获得“优秀团员”称号
+- 一项软件著作权、校级创新创业项目顺利结题
 
-**Bold** and _Italic_ and `Code` text
+### 项目研究
+#### 公司/学校/研究所（2013.9~2017.6）
+- **项目1**  
+项目描述
+- **项目2**  
+项目描述
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhengjunlong2/zhengjunlong2.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### 学校（2017.9~至今）
+- **大学生失物招领平台**  
+利用所学SpringMVC框架搭建web原型
+mysql数据库的搭建，主要负责后台数据处理算法、数据交互算法部分。 
+完成了简易的安卓移动端社交软件，成功获取软件著作权
+- **大学生个性化社交网络平台**  
+主要负责需求分析、调研。运用Mybatis、SpringBoot框架以及Axure软件搭建web原型
+负责建立用户画像、个性化推荐算法部分。
+- **科技创新年报征集系统**  
+负责百万量级数据清洗、去重、入库，利用SSM框架开发Web网站。
+完成了科创项目的填报、分类、一筐式查询、多条件查询、树状图查询部分。
+- **企业图谱系统**  
+负责数据的爬取、清洗入库。
+用ECharts完成了公司股东、股份以及投资人之间的关联关系的树图、关系图。
+- **基于计算机视觉的交通场景智能应用**  
+使用Django搭建Web框架并利用yolov3算法完成的行人、车辆、指示灯的监测识别，车牌识别
+完成判断识别闯红灯、超速的违规交通场景。
